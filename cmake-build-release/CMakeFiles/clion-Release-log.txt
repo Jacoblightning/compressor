@@ -1,4 +1,0 @@
-/home/jacoblightning3/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_MAKE_PROGRAM=/home/jacoblightning3/.local/share/JetBrains/Toolbox/apps/clion/bin/ninja/linux/x64/ninja -G Ninja -S /home/jacoblightning3/CLionProjects/compressor -B /home/jacoblightning3/CLionProjects/compressor/cmake-build-release
--- Configuring done (0.1s)
--- Generating done (0.0s)
--- Build files have been written to: /home/jacoblightning3/CLionProjects/compressor/cmake-build-release
