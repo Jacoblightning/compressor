@@ -1,0 +1,3 @@
+/home/jacoblightning3/CLionProjects/compressor/cmake-build-debug/CMakeFiles/compressor.dir
+/home/jacoblightning3/CLionProjects/compressor/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jacoblightning3/CLionProjects/compressor/cmake-build-debug/CMakeFiles/rebuild_cache.dir
